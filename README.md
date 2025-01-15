@@ -14,7 +14,4 @@ Use the up and down arrow keys to move the character
 Press the up arrow key to jump
 
 #Acknowledgements
-This game was inspired by the inspired by Google's Chrome Dino game.
-
-#Contact Information
-If you have any questions, send me a message on LINE official: .
+This game was inspired by Google's Chrome Dino game.
